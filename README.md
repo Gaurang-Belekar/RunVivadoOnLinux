@@ -2,23 +2,24 @@
 
 ## Step 1 :
 
-Clone this repository 
-
-'git clone https://github.com/Gaurang-Belekar/RunVivadoOnLinux.git'
+Clone this repository by copying and running: 
+```
+git clone https://github.com/Gaurang-Belekar/RunVivadoOnLinux.git 
+```
 
 ## Step 2
-Copy the Vivado.sh File into your home directory
+Copy the vivado.sh File into your home directory
 
 ## Step 3
 
 Run:
 
-'chmod +x Vivado.sh'
+`chmod +x vivado.sh`
 
 ## Step 4
 
 Now to always run the installed version, type
 
-'./Vivado.sh'
+`./vivado.sh`
 
 Just after opening the terminal in home page
